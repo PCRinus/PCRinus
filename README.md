@@ -1,6 +1,6 @@
 # Hello there 👋
 
-#### My name is *Mircea*, and I'm a 22 year old full stack web developer. I mainly code in JavaScript, using React/Svelte and NodeJS, but I'm constantly learning new things. 
+##### My name is **Mircea**, and I'm a 22 year old full stack web developer. For my side projects, I mainly code in JavaScript, using React/Svelte and NodeJS, but I'm constantly learning new things. Profesionally, I code using vanilla JavaScript and PHP. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
 
