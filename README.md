@@ -4,6 +4,9 @@ My name is Mircea, and I'm a 22 year old full stack web developer. I mainly code
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **PCRinus/PCRinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
