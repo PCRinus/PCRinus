@@ -4,7 +4,8 @@ My name is Mircea, and I'm a 22 year old full stack web developer. I mainly code
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCRinus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
