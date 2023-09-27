@@ -1,10 +1,10 @@
 # Hello there 👋
 
-My name is **Mircea**, and I'm a 22 year old full stack web developer. 
+My name is **Mircea**, and I'm a 25 year old full stack web developer. 
 
-For my side projects, I mainly code in JavaScript, using Svelte and NodeJS, but I'm constantly learning new things. Profesionally, I'm a full stack dev currently working with JavaScript.
+For my side projects, I mainly code in Typescript, using Svelte, React, NodeJS and NestJS, but I'm constantly learning new things. Profesionally, I'm a full stack dev currently working with Typescript at doctari.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCRinus)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCRinus&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
